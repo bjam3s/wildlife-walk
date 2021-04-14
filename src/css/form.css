@@ -1,0 +1,16 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+
+.required {
+  color: red;
+}
+
+.textWidth {
+  width: 70%;
+}
+
+#notes,
+#license {
+  width: 72% !important;
+}
